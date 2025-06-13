@@ -15,4 +15,4 @@ Self-Introduction: Length (in characters) of the user’s self-description.
 
 Gender: male=1 and female=0. 
 
-The In-degree / Out-degree used in the paper, which are the number of followers (in-degree) and followees (out-degree) for each user, are calculated directly from the adjacency matrix in Sina_W.xlsx.
+The In-degree / Out-degree used in the paper, which are the number of followers (in-degree) and followees (out-degree) for each user, are calculated directly from the adjacency matrix in "Sina_W.xlsx".
